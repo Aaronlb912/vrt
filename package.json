@@ -1,0 +1,8 @@
+{
+  "name": "visual-regression-tester",
+  "private": true,
+  "description": "Local screenshot-diff suite plus a small fixture site to run it against.",
+  "scripts": {
+    "start": "node site/server.js"
+  }
+}

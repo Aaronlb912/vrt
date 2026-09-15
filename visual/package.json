@@ -1,0 +1,16 @@
+{
+  "name": "visual",
+  "private": true,
+  "scripts": {
+    "visual": "node cli.cjs",
+    "visual:local": "VISUAL_ENV=local node cli.cjs",
+    "visual:dev": "VISUAL_ENV=dev node cli.cjs",
+    "visual:prod": "VISUAL_ENV=prod node cli.cjs",
+    "visual:update": "node cli.cjs --update-snapshots",
+    "visual:report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
