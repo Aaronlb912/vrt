@@ -7,7 +7,7 @@ Pages.
 Walkthrough: what it is, a pass, a broken homepage, then expected / actual /
 diff.
 
-https://github.com/user-attachments/assets/50926ebc-f98e-410d-83ad-c9e02c937c7d
+https://github.com/user-attachments/assets/0a7781ab-a8f0-4b69-9a2a-f69f3f00a91c
 
 Voice is Microsoft Andrew Neural. Music is Wallpaper by Kevin MacLeod
 (incompetech.com), CC BY 3.0.
