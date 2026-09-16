@@ -4,6 +4,10 @@ Playwright screenshot diffs for a small Ashland City Clerk site. The tester
 lives in `visual/`. The site is a fixture you can run locally or hit on GitHub
 Pages.
 
+Fork it or copy `visual/` into your own repo. MIT. Change the URLs in
+`playwright.config.ts` and the paths in `pages.ts`, take new screenshots, and
+the PNGs are yours. Step-by-step: [Using this on another site](FOR-OTHER-SITES.md).
+
 Walkthrough: what it is, a pass, a broken homepage, then expected / actual /
 diff.
 
