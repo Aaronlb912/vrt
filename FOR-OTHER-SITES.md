@@ -13,5 +13,8 @@ or Next.
 A first slice is enough: home, one inner page, and a form or login if the
 site has one.
 
+This is MIT. Fork the repo or copy `visual/`. The clerk fixture is only a
+demo target. You do not have to keep it.
+
 Baselines are usually from local. Do not mix prod captures into the same
 snapshot names unless you mean to replace them.
